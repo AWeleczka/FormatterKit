@@ -32,7 +32,7 @@
 "day" = "Tag";
 
 /* Day Unit (Plural) */
-"days" = "Tage";
+"days" = "Tagen";
 
 /* Day Unit (Singular, Abbreviated) */
 "d" = "T.";
